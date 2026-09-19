@@ -1,0 +1,6 @@
+{
+  "name": "Fenris - Discord Sentinel & Moderation",
+  "description": "The ultimate Discord bot website and real-time dashboard featuring military-grade Anti-Nuke defense, authoritative disciplinary moderation, warning strikes, intelligent AutoMod, leveling, and web administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
