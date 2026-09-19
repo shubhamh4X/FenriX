@@ -196,15 +196,7 @@ Visit `http://localhost:3000` to open the web dashboard.
 
 ## 📤 Publishing to GitHub
 
-You can publish this project to your GitHub account using either method:
-
-### Method A: One-Click Export from Google AI Studio
-1. In Google AI Studio, click the **Settings / Menu** button in the top right.
-2. Select **"Export to GitHub"**.
-3. Choose your GitHub account and repository name.
-4. All code, configuration files, and this `README.md` will be pushed directly to your new repository!
-
-### Method B: Manual Git Push
+### Method : Manual Git Push
 ```bash
 git init
 git add .
